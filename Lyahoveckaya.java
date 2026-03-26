@@ -5,7 +5,7 @@ public class Lyahoveckaya {
         Scanner scanner = new Scanner(System.in);
 
         // 1 задание
-        System.out.println("=== Задание 1 ===");
+        System.out.println(" Задание 1 ");
         System.out.print("Введите целое число a: ");
         int a = scanner.nextInt();
         System.out.print("Введите целое число b: ");
@@ -34,7 +34,7 @@ public class Lyahoveckaya {
         scanner.nextLine(); 
 
         // 2 задание
-        System.out.println("\n=== Задание 2 ===");
+        System.out.println("\n Задание 2 ");
         System.out.print("Введите строку a: ");
         String strA = scanner.nextLine();
         System.out.print("Введите строку b: ");
@@ -47,7 +47,7 @@ public class Lyahoveckaya {
         }
 
         // 3 задание
-        System.out.println("\n=== Задание 3 ===");
+        System.out.println("\n Задание 3 ");
         int[] numbers = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
         System.out.print("Чётные числа из массива: ");
         
